@@ -101,6 +101,7 @@ _Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios
 
 * **Reinaldo Ordoñez** - *Trabajo Inicial* - [Reinaldo GitHub](https://github.com/reinaldo)
 * **Felipe Castillo** - *Avances * - [Felipe GitHub](https://github.com/felipecastillo-b)
+* **Lucas Venegas** - *Avances * - [Lucas GitHub](https://github.com/moontivac10n)
 * **Edgardo Cayo** - *Documentación* - [cayocft](https://github.com/cayocft)
 
 
